@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+  }
+
+h1 {
+    color: black;
+    text-align: center;
+  }
+
+  h3 {
+    color: white;
+    text-align: left;
+    background-color: midnightblue;
+
+  }
+
+tr {
+  text-align: left !important;
+  background-color: rgb(245, 238, 238) !important;
+  }
+
